@@ -3,6 +3,7 @@
 ### Simple jQuery Currency Exchange Calculator, made with the ExchangeRate-API
 
 *Link to the project*: [Currency Exchange Calculator](https://sabanovics.com/ExchangeRate/)
+
 *Link to the **ExchangeRate-API* Documentation**: [ExchangeRate-API](https://www.exchangerate-api.com/docs/overview)
 
  I made this small project primarily to refresh my memory on **AJAX**, and Fetching data from **API**s. This project wasn't **CSS** heavy so I won't go into details with the aesthetics. As you can see the layout is very simple, however, I am proud of the color combination. :blush:
